@@ -1,0 +1,12 @@
+body{
+    margin:0px;
+}
+.a{
+    height:100px;
+    display:grid;
+    justify-content:center;
+    
+}
+.m{
+    margin-bottom:10px;
+}

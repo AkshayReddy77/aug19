@@ -1,0 +1,77 @@
+body{
+    margin:0px;
+
+}
+.container{
+    height:100vh;
+    
+}
+.title{
+    height:10vh;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.beautify{
+    color:white;
+    font-size: 1rem;
+    font-family: monospace;   
+}
+.a{
+
+    padding-left: 20px;
+    display:grid;
+    justify-content:left;
+    align-content: center;
+    font-size:5rem;
+    color: black;
+}
+.b{
+  
+    font-size:5rem;
+    font-family:monospace;
+    color:black;
+    display:grid;
+    grid-template-columns: auto auto;
+
+}
+.c{
+    
+    display:grid;
+    justify-content:left;
+    align-content: center; 
+}
+.d{
+    
+    display:grid;
+    justify-content:left;
+    align-content: center;
+}
+.center{
+    height:80vh; 
+    display:grid;
+    grid-template-columns: auto auto;
+}
+.bet{
+    color:black;
+    font-size:5rem;
+    font-family:monospace;
+}
+.end{
+    height:10vh;
+    display:grid;
+    grid-template-columns: auto auto;
+}
+.set{
+    color:black;
+    font-size:6rem;
+    font-family:monospace;
+}
+.e{
+    display:grid;
+    justify-content:center;
+    align-content: center;
+}
+.f{
+    display:grid;
+    justify-content: center;
+}

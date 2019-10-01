@@ -1,0 +1,13 @@
+body{
+    margin:0px;
+}
+.container{
+    height:100vh;
+    
+}
+.title{
+    height:10vh;
+    display: grid;
+    grid-template-columns: auto auto;
+
+}

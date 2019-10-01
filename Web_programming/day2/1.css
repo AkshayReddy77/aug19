@@ -1,0 +1,55 @@
+body{
+    margin:0px;
+
+}
+.container{
+    height: 95%;
+    display: grid;
+    justify-content:center;
+    align-content:center;
+    
+}
+
+.gridcontainer{
+    height: 10wh;
+    display:grid;
+    justify-content:center;
+    align-content:center;
+    grid-template-columns:auto auto auto auto auto auto;
+}
+.a{
+    color:red;
+    font-size:4rem;
+    font-family:monospace;
+}
+.b{
+    color:royalblue;
+    font-size:4rem;
+    font-family:monospace;
+}
+.c{
+    color:gold;
+    font-size:4rem;
+    font-family:monospace;    
+}
+.d{
+    color:red;
+    font-size:4rem;
+    font-family:monospace;
+}
+.e{
+    color:green;
+    font-size:4rem;
+    font-family:monospace;
+}
+.f{
+    color:red;
+    font-size:4rem;
+    font-family:monospace;
+}
+
+.inputbox{
+    justify-content: center;
+    align-content: center;
+    border-radius: 45px;
+}

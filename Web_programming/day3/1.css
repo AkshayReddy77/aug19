@@ -1,0 +1,23 @@
+body{
+    margin:0px;
+}
+.container{
+       height:100vh;
+        display:grid;
+        
+        grid-template-rows: auto auto;  
+      
+}
+
+.a{
+    height: 50vh;
+    display:grid;
+    justify-content: center;
+    align-content: center;
+}
+.btn{
+    height: 50vh;
+    display:grid;
+    justify-content: center;
+    align-content: center;
+}
