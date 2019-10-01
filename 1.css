@@ -1,0 +1,13 @@
+body{
+    margin:0px;
+}
+.container{
+    height:100vh;
+    display:grid;
+    justify-content: center;
+    align-content: center;
+    grid-auto-columns: auto auto;
+}
+.beautify{
+    color: black;
+}
